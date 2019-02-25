@@ -1,0 +1,6 @@
+*.asm
+*.hack
+*.zip
+.idea
+*.pyc
+__pycache__
